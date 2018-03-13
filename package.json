@@ -2,12 +2,50 @@
   "name": "ep_copy_paste_images",
   "description": "Copy and Paste images from clipboard to a pad",
   "version": "0.0.14",
-  "author": "johnyma22 (John McLear) <john@mclear.co.uk>",
-  "contributors": [ ],
-  "dependencies": { },
-  "repository" : {
-    "type" : "git",
-    "url"  : "https://github.com/JohnMcLear/ep_copy_paste_images.git"
+  "author": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk",
+    "url": "John McLear"
   },
-  "engines": { "node": "*" }
+  "contributors": [],
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "mime-types": "^2.1.18",
+    "uuid": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnMcLear/ep_copy_paste_images.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "gitHead": "54a1d058ae126ffbc3d1bca9ee1dddafd8131984",
+  "bugs": {
+    "url": "https://github.com/JohnMcLear/ep_copy_paste_images/issues"
+  },
+  "homepage": "https://github.com/JohnMcLear/ep_copy_paste_images",
+  "_id": "ep_copy_paste_images@0.0.14",
+  "scripts": {},
+  "_shasum": "d1948159f973335f857ce12190613f201d332d4c",
+  "_from": "ep_copy_paste_images@latest",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "johnyma22",
+    "email": "john@mclear.co.uk"
+  },
+  "maintainers": [
+    {
+      "name": "johnyma22",
+      "email": "john@mclear.co.uk"
+    }
+  ],
+  "dist": {
+    "shasum": "d1948159f973335f857ce12190613f201d332d4c",
+    "tarball": "https://registry.npmjs.org/ep_copy_paste_images/-/ep_copy_paste_images-0.0.14.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ep_copy_paste_images/-/ep_copy_paste_images-0.0.14.tgz",
+  "readme": "ERROR: No README data found!"
 }
